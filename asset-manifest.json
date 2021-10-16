@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b487185e.chunk.css",
+    "main.js": "/static/js/main.15065686.chunk.js",
+    "main.js.map": "/static/js/main.15065686.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c1a3fc2e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c1a3fc2e.js.map",
+    "static/css/2.19fb18a5.chunk.css": "/static/css/2.19fb18a5.chunk.css",
+    "static/js/2.59d5f214.chunk.js": "/static/js/2.59d5f214.chunk.js",
+    "static/js/2.59d5f214.chunk.js.map": "/static/js/2.59d5f214.chunk.js.map",
+    "static/js/3.d716c1bd.chunk.js": "/static/js/3.d716c1bd.chunk.js",
+    "static/js/3.d716c1bd.chunk.js.map": "/static/js/3.d716c1bd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.19fb18a5.chunk.css.map": "/static/css/2.19fb18a5.chunk.css.map",
+    "static/css/main.b487185e.chunk.css.map": "/static/css/main.b487185e.chunk.css.map",
+    "static/js/2.59d5f214.chunk.js.LICENSE.txt": "/static/js/2.59d5f214.chunk.js.LICENSE.txt",
+    "static/media/Rectangle93.98b6e2ab.png": "/static/media/Rectangle93.98b6e2ab.png",
+    "static/media/icons8-mastercard-logo-480.c8c736c9.png": "/static/media/icons8-mastercard-logo-480.c8c736c9.png",
+    "static/media/icons8-paypal-480.90e9b0c6.png": "/static/media/icons8-paypal-480.90e9b0c6.png",
+    "static/media/icons8-visa-480.fb63fde8.png": "/static/media/icons8-visa-480.fb63fde8.png",
+    "static/media/logo.e9d2d72f.png": "/static/media/logo.e9d2d72f.png",
+    "static/media/order-confirmation.89f4e574.png": "/static/media/order-confirmation.89f4e574.png",
+    "static/media/sample-item-image.2a54087f.png": "/static/media/sample-item-image.2a54087f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1a3fc2e.js",
+    "static/css/2.19fb18a5.chunk.css",
+    "static/js/2.59d5f214.chunk.js",
+    "static/css/main.b487185e.chunk.css",
+    "static/js/main.15065686.chunk.js"
+  ]
+}
